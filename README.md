@@ -35,6 +35,9 @@
 - Stable difussion: (I installed in my mac)
 - Character.ai -> I have account
 
+# Text to Speech
+- https://www.nuance.com/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html
+- https://www.naturalreaders.com/online/
 
 # AI Model and related such as data annotation tools
 - https://stability.ai/ and https://github.com/stability-AI/stableLM
@@ -43,3 +46,4 @@
 - CVAT
 - quickdraw.withgoogle.com - no need to register
 - https://lambdanalytique.com/
+
