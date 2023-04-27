@@ -22,12 +22,12 @@
 - TestComplete
 - https://github.com/askui/askui
 
-## selenium related:
+## Selenium related:
 - https://www.parasoft.com/products/parasoft-selenic/
 - https://pypi.org/project/selenium-ai/
 - test.ai
 
-## report
+## Report
 - ReportPortal
 
 # Art
