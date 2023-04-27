@@ -6,6 +6,7 @@
 - TruthGPT -> no need register
 - Test generated webui: https://github.com/oobabooga/text-generation-webui (I installed in my windows)
 - https://github.com/Rorantulino/Auto-GPT (need openAI API key)
+- https://www.assemblyai.com/
 
 # Test Automation
 - Trincentis TestIM(OCR)/Tosca(model based)  -> I got free trial and tested with our products
@@ -17,7 +18,7 @@
 - AppliTools
 - Functionize
 - test.ai
-- imagium.ai
+- [imagium.io](https://imagium.io/)
 - TestComplete
 
 - ReportPortal
@@ -34,3 +35,4 @@
 - labelbox.com - I have account
 - CVAT
 - quickdraw.withgoogle.com - no need to register
+- https://lambdanalytique.com/
