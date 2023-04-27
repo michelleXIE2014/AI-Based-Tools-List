@@ -11,18 +11,23 @@
 # Test Automation
 - Trincentis TestIM(OCR)/Tosca(model based)  -> I got free trial and tested with our products
 - Mabl: https://www.mabl.com/
-- https://pypi.org/project/selenium-ai/
 - Eggplant (OCR)
 - Leapwork(model based)
 - AcceLQ
 - TestScraft
 - AppliTools
 - Functionize
-- test.ai
+
 - [imagium.io](https://imagium.io/)
 - TestComplete
 - https://github.com/askui/askui
 
+## selenium related:
+- https://www.parasoft.com/products/parasoft-selenic/
+- https://pypi.org/project/selenium-ai/
+- test.ai
+
+## report
 - ReportPortal
 
 # Art
