@@ -15,7 +15,7 @@
 - Eggplant (OCR)
 - Leapwork(model based)
 - AcceLQ
-- TestScrft
+- TestScraft
 - AppliTools
 - Functionize
 - test.ai
