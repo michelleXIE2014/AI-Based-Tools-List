@@ -10,7 +10,8 @@
 
 # Test Automation
 - Trincentis TestIM(OCR)/Tosca(model based)  -> I got free trial and tested with our products
-- Mabl
+- Mabl: https://www.mabl.com/
+- https://pypi.org/project/selenium-ai/
 - Eggplant (OCR)
 - Leapwork(model based)
 - AcceLQ
@@ -20,6 +21,7 @@
 - test.ai
 - [imagium.io](https://imagium.io/)
 - TestComplete
+- https://github.com/askui/askui
 
 - ReportPortal
 
