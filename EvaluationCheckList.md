@@ -1,0 +1,17 @@
+-  Learning curve of the tool, customer support, manual, course... time? easy level?
+-  OCR or model based or selemium related or codeless, play and record? 
+-  Cloud or local?
+-  Test web app, desktop app, mobile app?
+-  Source version control?
+-  Licensing? Price?
+-  Verification machanism?
+-  API?
+-  is able to run in our CI/CD system?
+-  work with our products successfully or not?
+-  Reporting?
+-  Debugging?
+-  Stability?
+-  Maintenance?
+-  Parallel?
+-  How to handle the timeout? Need manual to add extra steps or modify the tests?
+-  AI used in which feature and improve what?
