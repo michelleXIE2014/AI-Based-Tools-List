@@ -34,6 +34,8 @@
 - Midjourney -> I had a free account
 - Stable difussion: (I installed in my mac)
 - Character.ai -> I have account
+## Video
+- https://gencraft.com/
 
 # Text to Speech
 - https://www.nuance.com/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html
